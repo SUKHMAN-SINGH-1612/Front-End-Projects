@@ -12,9 +12,8 @@ Welcome to my Front End Projects Repository! This repository contains a collecti
 
 | Project Name | Description | Deployed Link |
 | ------------ | ----------- | ------------- |
-| Project 1    | Description of Project 1 | [Link](https://example.com/project1) |
-| Project 2    | Description of Project 2 | [Link](https://example.com/project2) |
-| Project 3    | Description of Project 3 | [Link](https://example.com/project3) |
+| Weather App  | A beginner-level weather app crafted with HTML, CSS, and JavaScript and using OpenWeatherMap API | [Link](https://example.com/project1) |
+| ToDo List App    | Description of Project 2 | [Link](https://example.com/project2) |
 | ...          | ...         | ...           |
 
 ## Collaboration
