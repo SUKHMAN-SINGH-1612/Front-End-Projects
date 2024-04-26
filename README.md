@@ -14,7 +14,6 @@ Welcome to my Front End Projects Repository! This repository contains a collecti
 | ------------ | ----------- | ------------- |
 | Weather App  | A beginner-level weather app crafted with HTML, CSS, and JavaScript and using OpenWeatherMap API | [Link](https://example.com/project1) |
 | ToDo List App    | Description of Project 2 | [Link](https://example.com/project2) |
-| ...          | ...         | ...           |
 
 ## Collaboration
 
